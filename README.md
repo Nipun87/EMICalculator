@@ -265,10 +265,4 @@ The frontend displays user-friendly error messages and validates inputs before s
 - Styling for the application
 - Form and result box styling
 
-## Browser Compatibility
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
 
